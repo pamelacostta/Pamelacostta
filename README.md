@@ -11,7 +11,7 @@
 Welcome to my profile! 👋🏽
  
  I'm a Systems Analysis and Development student and
-future Java developer☕️💻
+future Java developer☕️💻 MySQL🐬
 
 Here are some ideas to get you started:
 
