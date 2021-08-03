@@ -10,13 +10,12 @@
 
 Welcome to my profile! 👋🏽
  
- I'm a Systems Analysis and Development student and
-future Java developer 💻
+ I'm a Systems Analysis and Development student 💻
 
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning Java ☕️ MySQL🐬
+- 🌱 Estudante de desenvolvimento web | Front-End | UX/UI Designer
 - 👯 I’m looking to collaborate on Projects for Jr developers
 - 📫 How to reach me: E-mail and linkedin
 - ⚡ Fun fact:  I like everything that challenges me
